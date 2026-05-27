@@ -79,16 +79,6 @@ concentration risk.
 
 ---
 
-## 📊 Dashboard Preview
-
-### Overview Page
-![Dashboard Overview](dashboard_page1.png)
-
-### Regional Breakdown
-![Regional Breakdown](dashboard_page2.png)
-
----
-
 ## 💡 How to Use
 
 1. Clone the repository
